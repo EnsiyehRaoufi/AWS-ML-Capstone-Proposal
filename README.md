@@ -4,4 +4,4 @@ Here I upload my proposal of the capstone project of my AWS ML Engineer Nanodegr
 
 https://github.com/udacity/machine-learning/tree/master/projects/capstone
 
-You can see my proposal in the this directory as my_proposal.pdf file.
+You can see my proposal in the this directory as proposal.pdf file.
